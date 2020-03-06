@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 2a651114579603b40b1bd547aa9baabb
+timeCreated: 1473332876
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - m_gCard: {instanceID: 0}
+  - txtAttack: {fileID: 114000013551854260, guid: c12eff73df5f09b45bfc1b635bbd1ad4,
+      type: 2}
+  - txtDefense: {fileID: 114000011867001494, guid: c12eff73df5f09b45bfc1b635bbd1ad4,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
